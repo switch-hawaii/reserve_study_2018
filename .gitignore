@@ -1,0 +1,8 @@
+Icon?
+outputs*/
+scenario_queue*/
+*.pyc
+.*
+!.gitignore
+~$*
+*.xls*
