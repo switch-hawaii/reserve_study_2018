@@ -1,8 +1,8 @@
 HAWAII RESERVES CASE STUDY
 
-INSTALL SWITCH MODEL
+This repository contains data and configuration files used for a case study on obtaining reserves from load-shifting batteries and/or demand response, while transitioning to 100% renewable power in Hawaii. This file provides instructions for installing the Switch power system planning model, downloading the case study files, and running the case study.
 
-This repository contains data and configuration files used for a case study on obtaining reserves from load-shifting batteries and/or demand response, while transitioning to 100% renewable power in Hawaii.
+INSTALL SWITCH MODEL
 
 To run this case study, first install Switch version 2.0.0b4 or later. This version hasn't been merged into the master branch yet, so for now, this is the best way to do that:
 
