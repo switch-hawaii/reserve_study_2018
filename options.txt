@@ -17,7 +17,7 @@
 --solver=gurobi --solver-options-string='MIPGap=0.01 threads=1'
 
 # inputs to use if not run as part of a scenario
---inputs-dir inputs_ls_regulation_long
+--inputs-dir inputs_ls_regulation
 
 # use (only) locked-in capacity additions from PSIP
 --psip-relax
