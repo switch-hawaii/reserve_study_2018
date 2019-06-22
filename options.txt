@@ -14,7 +14,7 @@
 ##--suffixes iis
 ## --solver=cplex --solver-io=nl
 ## --solver-options-string="display=1 mipdisplay=1 iisfind=1 threads=1"
---solver=gurobi --solver-options-string='MIPGap=0.01 threads=1'
+--solver gurobi --solver-options-string 'MIPGap=0.01 threads=1'
 
 # inputs to use if not run as part of a scenario
 --inputs-dir inputs_ls_regulation
